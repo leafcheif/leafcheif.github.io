@@ -98,7 +98,7 @@ async function loadBrands() {
     generateCategories();
     renderBrands();
   } catch (error) {
-    brandGrid.innerHTML = "<p class='text-red-500'>Failed to load brands.json</p>";
+    brandGrid.innerHTML = "<p class='text-red-500'>We're experiencing technical difficulties at this time, check back later. Sorry!</p>";
     console.error(error);
   }
 }
