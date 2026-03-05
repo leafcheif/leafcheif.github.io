@@ -34,5 +34,14 @@
     "category": "Budget",
     "url": "https://thcaorder.com/?ref=hempradar",
     "logo": "https://thcaorder.com/wp-content/uploads/2025/10/fixedcropped-thcaordericon.png"
+  },
+  {
+    "name": "The Weed Box",
+    "description": "Everything from rigs to THCa concentrates.",
+    "code": "hemp_radar",
+    "discount": "%10 off all items",
+    "category": "Other",
+    "url": "https://the-weed-box.myshopify.com?ref=hemp_radar",
+    "logo": "https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/3e918d52-302d-4bf5-a777-06f4ffd95e2a.png"
   }
 ]
