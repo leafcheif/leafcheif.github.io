@@ -5,7 +5,8 @@
     "code": "leafcheif10",
     "discount": "%10 off all items",
     "category": "Recommended",
-    "url": "https://thcasmallbuds.com/?ref=hempradar"
+    "url": "https://thcasmallbuds.com/?ref=hempradar",
+    "logo": "https://www.cannabisvouchers.com/wp-content/uploads/2025/10/THCA-Small-Buds-Logo.jpg"
   },
   {
     "name": "THCA King",
@@ -13,7 +14,8 @@
     "code": "ten",
     "discount": "%10 off all items",
     "category": "Budget",
-    "url": "https://affiliate.thcaking.com/?ref=ten"
+    "url": "https://affiliate.thcaking.com/?ref=ten",
+    "logo": "https://thcaking.com/cdn/shop/files/thca-king-logo-new_08fbfa31-0180-4d4a-8d13-ff6256e54643.png?v=1771376421&width=1500"
   },
   {
     "name": "JK Distro",
@@ -21,7 +23,8 @@
     "code": "hempradar20",
     "discount": "%20 off all items",
     "category": "Recommended",
-    "url": "https://jkdistro.com/?sld=hempradar"
+    "url": "https://jkdistro.com/?sld=hempradar",
+    "logo": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6022f3abf4117300014dbb4a/0x0.png"
   },
   {
     "name": "THCA Order",
@@ -29,6 +32,7 @@
     "code": "odpnpynqju",
     "discount": "%10 off all items",
     "category": "Budget",
-    "url": "https://thcaorder.com/?ref=hempradar"
+    "url": "https://thcaorder.com/?ref=hempradar",
+    "logo": "https://thcaorder.com/wp-content/uploads/2025/10/fixedcropped-thcaordericon.png"
   }
 ]
