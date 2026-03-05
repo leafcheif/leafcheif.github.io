@@ -3,6 +3,7 @@
     "name": "THCA Small Buds",
     "description": "Wide variety for every price point, great bulk deals.",
     "code": "leafcheif10",
+    "discount": "%10 off all items",
     "category": "Recommended",
     "url": "https://thcasmallbuds.com/?ref=hempradar"
   },
@@ -10,6 +11,7 @@
     "name": "THCA King",
     "description": "Some good wholesale options for retail buyers, good pricing.",
     "code": "ten",
+    "discount": "%10 off all items",
     "category": "Budget",
     "url": "https://affiliate.thcaking.com/?ref=ten"
   },
@@ -17,6 +19,7 @@
     "name": "JK Distro",
     "description": "Consistent fire, wide variety of exotics but also cheaper buds available.",
     "code": "hempradar20",
+    "discount": "%20 off all items",
     "category": "Recommended",
     "url": "https://jkdistro.com/?sld=hempradar"
   },
@@ -24,6 +27,7 @@
     "name": "THCA Order",
     "description": "Budget exotics, good variety.",
     "code": "odpnpynqju",
+    "discount": "%10 off all items",
     "category": "Budget",
     "url": "https://thcaorder.com/?ref=hempradar"
   }
