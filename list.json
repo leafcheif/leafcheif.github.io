@@ -52,5 +52,14 @@
     "category": "Other",
     "url": "https://the-weed-box.myshopify.com?ref=hemp_radar",
     "logo": "https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/3e918d52-302d-4bf5-a777-06f4ffd95e2a.png"
+  },
+  {
+    "name": "Cookies",
+    "description": "Great consumer option for carts, disposables, flower, and much more. In business for 16 years.",
+    "code": "hempradar",
+    "discount": "%10 off all items",
+    "category": "Other",
+    "url": "https://shop.cookies.co/?ref=HEMPRADAR",
+    "logo": "https://product-assets.iheartjane.com/photos/4b/90/4b90ba00-b7cc-4d4e-a38a-a09051e5baa7.png"
   }
 ]
